@@ -1,0 +1,6 @@
+[submodule "manual/pico/WeActStudio.RP2040CoreBoard"]
+	path = manual/pico/WeActStudio.RP2040CoreBoard
+	url = https://github.com/WeActStudio/WeActStudio.RP2040CoreBoard.git
+[submodule "manual/pico/rp2040-pio-spwm"]
+	path = manual/pico/rp2040-pio-spwm
+	url = https://github.com/travisjayday/rp2040-pio-spwm.git
